@@ -24,6 +24,6 @@
 
 1. **Изучение Docker**  
    Изучение Docker: пример контейнеризации приложения на C++.  
-   *[Ссылка на проект][(https://github.com/)](https://github.com/Olga-R0/HelloDocker)*
+   *[Ссылка на проект](https://github.com/Olga-R0/HelloDocker)*
 
 
